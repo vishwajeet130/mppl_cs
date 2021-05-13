@@ -1,0 +1,6 @@
+1) **Python** (https://www.youtube.com/watch?v=rfscVS0vtbw)
+2) **Data Structure and Algorithms** (https://www.youtube.com/watch?v=RBSGKlAvoiM&t=172s)
+3) **Database Management Systems** (https://www.youtube.com/watch?v=HXV3zeQKqGY)
+4) **HTML** (https://www.youtube.com/watch?v=pQN-pnXPaVg)
+5) **CSS** (https://www.youtube.com/watch?v=1Rs2ND1ryYc)
+5) **Javascript** (https://www.youtube.com/watch?v=PkZNo7MFNFg)
